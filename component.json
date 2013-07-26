@@ -10,7 +10,7 @@
     "cyrillic"
   ],
   "dependencies": {
-  	"esundahl/museo-sans-cyrillic": "*"
+  	"esundahl/museo-sans-cyrillic-500": "*"
   },
   "development": {},
   "license": "MIT"
