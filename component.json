@@ -1,0 +1,12 @@
+{
+  "name": "museo-sans-cyrillic",
+  "repo": "esundahl/museo-sans-cyrillic",
+  "description": "Museo Sans Cyrillic Fonts",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+  	"esundahl/museo-sans-cyrillic": "*"
+  },
+  "development": {},
+  "license": "MIT"
+}
