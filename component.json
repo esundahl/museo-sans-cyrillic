@@ -3,7 +3,12 @@
   "repo": "esundahl/museo-sans-cyrillic",
   "description": "Museo Sans Cyrillic Fonts",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "font",
+    "museo",
+    "sans",
+    "cyrillic"
+  ],
   "dependencies": {
   	"esundahl/museo-sans-cyrillic": "*"
   },
