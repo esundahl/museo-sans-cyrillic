@@ -1,7 +1,6 @@
-
 # museo-sans-cyrillic
 
-  Museo Sans Cyrillic Fonts
+  Includes 500 regular font.
 
 ## Installation
 
@@ -11,7 +10,11 @@
 
 ## API
 
-
+```css
+body {
+  font-family: 'Museo Sans Cyrillic';
+}
+```
 
 ## License
 
