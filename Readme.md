@@ -1,4 +1,4 @@
-# museo-sans-cyrillic
+# Museo Sans Cyrillic
 
   Includes 500 regular font.
 
